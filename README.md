@@ -7,7 +7,7 @@ Reverie is a programming language with the objective of reutilizing the Python p
 
 It shares the same/simliar syntax and purpose as the [PRIME Programming Language](https://github.com/GitbyteMaster/PRIME-Lang), as it is a simple, cleaner rebuild of PRIME.
 # Why Reverie?
-The Reverie programming language comes with simple syntax and methods for development. It is open source for developers to modify into a shape of their choice.
+The Reverie programming language comes with simple syntax and methods for development. It is open source for developers to modify into a shape of their choice. It is made in multiple formats to work with Windows, and Macintosh operating systems for more compatibility.
 # Installation
 Windows & Mac are still in development currently, but will be released in time.
 
