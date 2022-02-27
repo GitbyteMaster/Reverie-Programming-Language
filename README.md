@@ -7,8 +7,7 @@ Reverie is a programming language with the objective of reutilizing the Python p
 
 It shares the same/simliar syntax and purpose as the [PRIME Programming Language](https://github.com/GitbyteMaster/PRIME-Lang), as it is a simple, cleaner rebuild of PRIME.
 
-Reverie gets many updates, see what is being worked on next here
-
+Reverie gets many updates, see what is being worked on next [here](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/TODO.md)
 ```
 system.write("hello world!")
 ```
