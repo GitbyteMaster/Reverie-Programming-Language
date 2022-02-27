@@ -1,2 +1,32 @@
-Functions:
-- [ ] Print
+<b>Functions:</b>
+- - [X] Print (0.0.1)
+- - [X] Input (0.0.4.1)
+- - [X] Wait (0.0.3.1)
+- - [X] Variables
+- - - [X] Set Variables (0.0.2)
+- - - - [X] Every Argument (0.0.2.3)
+- - - [X] Add Datatypes (0.0.3.1)
+- - - [ ] Arrays
+- - - - [ ] Set Arrays
+- - - - [ ] Add to Arrays
+- - - - [ ] Add Between Values
+- - - - [ ] Delete From Arrays
+- - [ ] Operations
+- - [ ] Files
+- - - [ ] Open Files/URLs
+- - - [ ] Write In File
+- - - [ ] Create File
+
+<b>Statements:</b>
+- [ ] If Statements
+- - [X] Else Statements (0.0.5.2)
+- - - Bug Fix 1 (0.0.5.4)
+- - [X] Value Equal to Value? (0.0.5)
+- - [X] Value in Value? (0.0.5.4)
+- - [X] Value Not Equal to Value? (0.0.5.1)
+- - [ ] Value Greater Than Value?
+- - [ ] Value Not In Value?
+- - [ ] Value Not Greater Than Value?
+- [ ] Loops
+- - [ ] Repeat Number of Times
+- - [ ] Repeat While True
