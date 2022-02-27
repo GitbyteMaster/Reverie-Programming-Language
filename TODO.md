@@ -1,7 +1,9 @@
 <b>Functions:</b>
 - - [X] Print (0.0.1)
 - - [X] Input (0.0.4.1)
-- - [X] Wait (0.0.3.1)
+- - [ ] Wait
+- - - [X] Wait Number of Seconds (0.0.3.1)
+- - - [ ] Wait Until
 - - [X] Variables
 - - - [X] Set Variables (0.0.2)
 - - - - [X] Every Argument (0.0.2.3)
