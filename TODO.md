@@ -27,7 +27,7 @@
 - - [X] Value in Value? (0.0.5.4)
 - - [X] Value Not Equal to Value? (0.0.5.1)
 - - [ ] Value Greater Than Value?
-- - [ ] Value Not In Value?
+- - [X] Value Not In Value? (0.0.5.5)
 - - [ ] Value Not Greater Than Value?
 - [ ] Loops
 - - [ ] Repeat Number of Times
