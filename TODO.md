@@ -14,6 +14,10 @@
 - - - - [ ] Add Between Values
 - - - - [ ] Delete From Arrays
 - - [ ] Operations
+- - - [X] Addition (0.0.6)
+- - - [X] Subtraction (0.0.6)
+- - - [ ] Multiplication
+- - - [ ] Division
 - - [ ] Files
 - - - [ ] Open Files/URLs
 - - - [ ] Write In File
