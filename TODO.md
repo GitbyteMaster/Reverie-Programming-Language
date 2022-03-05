@@ -13,11 +13,11 @@
 - - - - [ ] Add to Arrays
 - - - - [ ] Add Between Values
 - - - - [ ] Delete From Arrays
-- - [ ] Operations
+- - [X] Operations
 - - - [X] Addition (0.0.6)
 - - - [X] Subtraction (0.0.6)
-- - - [ ] Multiplication
-- - - [ ] Division
+- - - [X] Multiplication (0.0.6.1)
+- - - [X] Division (0.0.6.1)
 - - [ ] Files
 - - - [ ] Open Files/URLs
 - - - [ ] Write In File
