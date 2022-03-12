@@ -17,7 +17,7 @@
 - - - [X] Addition (0.0.6)
 - - - [X] Subtraction (0.0.6)
 - - - [X] Multiplication (0.0.6.1)
-- - - [X] Division (0.0.6.1)
+- - - [ ] Division
 - - [ ] Files
 - - - [ ] Open Files/URLs
 - - - [ ] Write In File
