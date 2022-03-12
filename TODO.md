@@ -19,7 +19,7 @@
 - - - [X] Multiplication (0.0.6.1)
 - - - [ ] Division
 - - [ ] Files
-- - - [X] Open Files/URLs
+- - - [X] Open Files/URLs (0.0.7)
 - - - [ ] Write In File
 - - - [ ] Create File
 
