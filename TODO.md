@@ -20,6 +20,7 @@
 - - - [ ] Division
 - - [ ] Files
 - - - [X] Open Files/URLs (0.0.7)
+- - - - Bug Fix 1 (0.0.7.1)
 - - - [ ] Write In File
 - - - [ ] Create File
 
