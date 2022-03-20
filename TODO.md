@@ -23,6 +23,7 @@
 - - - - Bug Fix 1 (0.0.7.1)
 - - - [ ] Write In File
 - - - [ ] Create File
+- - - [X] Read File Data (0.0.8)
 
 <b>Statements:</b>
 - [ ] If Statements
