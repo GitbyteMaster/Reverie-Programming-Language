@@ -1,5 +1,7 @@
 <h1 align="center"> <img width="290" alt="Screen Shot 2022-02-05 at 9 55 56 AM" src="https://user-images.githubusercontent.com/76265961/152647005-ee9fe914-db35-4bc4-8061-5cf0a798fde2.png"> </h1>
 
+[Docs](https://github.com/GitbyteMaster/Reverie-Programming-Language/wiki) | [Copyright](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/COPYRIGHT.md)
+
 ---
 
 # What is Reverie?
