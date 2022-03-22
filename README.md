@@ -26,8 +26,6 @@ system.input("Number 1: ",<num1>)
 system.write(<*>)
 }else{
 system.write("Oh. Ok.")
-}else{
-system.write("Oh. Ok.")
 }
 ```
 
