@@ -24,6 +24,8 @@ system.input("Number 1: ",<num1>)
 system.input("Number 1: ",<num1>)
 [<num1>+<num2>]
 system.write(<*>)
+}else{
+system.write("Oh. Ok.")
 }
 ```
 
