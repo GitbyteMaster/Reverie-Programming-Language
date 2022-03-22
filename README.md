@@ -32,7 +32,7 @@ system.write("Oh. Ok.")
 # Why Reverie?
 The Reverie programming language comes with simple syntax and methods for development. It is open source for developers to modify into a shape of their choice (See [COPYRIGHT](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/COPYRIGHT.md).) It is made in multiple formats to work with Windows, and Macintosh operating systems for more compatibility.
 # Installation
-Current Version `v0.0.8` / Build 8
+Current Version `v0.0.9` / Build 9
 
 Reverie is a universal Python file located in `Reverie-Lang.zip` file. Download Reverie [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/raw/main/Reverie-Lang.zip) To get the interpreter to work, download [Python](https://www.python.org/downloads/). Once finished, make sure the main `.py` file is located in this directory:
 ```
