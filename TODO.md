@@ -13,11 +13,15 @@
 - - - - [ ] Add to Arrays
 - - - - [ ] Add Between Values
 - - - - [ ] Delete From Arrays
-- - [X] Operations
-- - - [X] Addition (0.0.6)
-- - - [X] Subtraction (0.0.6)
-- - - [X] Multiplication (0.0.6.1)
-- - - [ ] Division
+- - [ ] Operations
+- - - [ ] Numerals
+- - - - [X] Addition (0.0.6)
+- - - - [X] Subtraction (0.0.6)
+- - - - [X] Multiplication (0.0.6.1)
+- - - - [ ] Division
+- - - [ ] Argument-Based
+- - - - [X] Return Indexed Character (0.1)
+- - - - [ ] Return Length of Argument Value
 - - [ ] Files
 - - - [X] Open Files/URLs (0.0.7)
 - - - - Bug Fix 1 (0.0.7.1)
