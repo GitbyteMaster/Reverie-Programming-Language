@@ -9,7 +9,7 @@
 - - - - [X] Every Argument (0.0.2.3)
 - - - [X] Add Datatypes (0.0.3.1)
 - - - [ ] Arrays
-- - - - [ ] Set Arrays
+- - - - [X] Set Arrays (0.1.1)
 - - - - [ ] Add to Arrays
 - - - - [ ] Add Between Values
 - - - - [ ] Delete From Arrays
