@@ -2,7 +2,9 @@
 
 [Docs](https://github.com/GitbyteMaster/Reverie-Programming-Language/wiki/Reverie-Docs) | [Copyright](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/LICENSE.md)
 
----
+|Works For|`Windows 10+, Macintosh Silicon+`|
+|---------|--------------------------|
+
 
 # What is Reverie?
 Reverie is an object oriented programming language with the objective of reutilizing the Python programming language for software developers. It is written in Python as well, and is made with high hopes that Python will continue to grow in numbers of software like it did before.
