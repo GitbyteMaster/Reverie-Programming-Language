@@ -22,7 +22,7 @@
 - - - [ ] Argument-Based
 - - - - [X] Return Indexed Character (0.1)
 - - - - [ ] Return Length of Argument Value
-- - - - [ ] Return Joined Arguments
+- [X] Join Values in Variable (0.1.2)
 - - [ ] Files
 - - - [X] Open Files/URLs (0.0.7)
 - - - - Bug Fix 1 (0.0.7.1)
