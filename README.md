@@ -43,4 +43,4 @@ WINDOWS: C://Users/*/Desktop/Reverie-Lang/
 ```
 
 ---
-©GitbyteMasters / Zone Studios 2021-2022
+©GitbyteMasters 2021-2022
