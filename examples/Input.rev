@@ -6,6 +6,6 @@ if(<i>=="yes"){
 [<yes>+1]
 var int yes = (<*>)
 }else{
-[<yes>-1]
+[<no>+1]
 var int yes = (<*>)
 }
