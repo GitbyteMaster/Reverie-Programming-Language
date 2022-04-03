@@ -1,8 +1,14 @@
-# Reverie
 
-20/40 Complete
+<img width="90" alt="smallogo" src="https://user-images.githubusercontent.com/76265961/161445552-9dc1e206-12f1-42e6-b380-dade6ddb27ce.png">
 
 ---
+
+21/42 Complete
+
+---
+
+
+
 
 <b>Functions:</b>
 - - [X] Print (0.0.1)
@@ -25,9 +31,9 @@
 - - - - [X] Subtraction (0.0.6)
 - - - - [X] Multiplication (0.0.6.1)
 - - - - [ ] Division
-- - - [ ] Argument-Based
+- - - [X] Argument-Based
 - - - - [X] Return Indexed Character (0.1)
-- - - - [ ] Return Length of Argument Value
+- - - - [X] Return Length of Argument Value (0.1.3
 - [X] Join Values in Variable (0.1.2)
 - - [ ] Files
 - - - [X] Open Files/URLs (0.0.7)
@@ -35,6 +41,9 @@
 - - - [X] Write In File (0.0.9)
 - - - [ ] Create File
 - - - [X] Read File Data (0.0.8)
+- [ ] Modules (Structures)
+- - [ ] Import Structures
+- - [ ] Use Structure Functions
 
 <b>Statements:</b>
 - [ ] If Statements
