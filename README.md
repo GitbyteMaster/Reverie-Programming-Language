@@ -1,4 +1,4 @@
-<h1 align="center"> <img width="290" alt="Screen Shot 2022-02-05 at 9 55 56 AM" src="https://user-images.githubusercontent.com/76265961/152647005-ee9fe914-db35-4bc4-8061-5cf0a798fde2.png"> </h1>
+<h1 align="center"><img width="500" alt="Screen Shot 2022-04-05 at 3 53 50 PM" src="https://user-images.githubusercontent.com/76265961/161838486-49faf87c-0c1d-4826-85e3-5661abe329ec.png"></h1>
 
 [Docs](https://github.com/GitbyteMaster/Reverie-Programming-Language/wiki/Reverie-Docs) | [Copyright](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/LICENSE.md)
 
