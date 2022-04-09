@@ -22,7 +22,7 @@
 - - - [X] Add Datatypes (0.0.3.1)
 - - - [ ] Arrays
 - - - - [X] Set Arrays (0.1.1)
-- - - - [ ] Add to Arrays
+- - - - [X] Add to Arrays (0.1.2)
 - - - - [ ] Add Between Values
 - - - - [ ] Delete From Arrays
 - - [ ] Operations
