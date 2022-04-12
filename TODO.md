@@ -3,7 +3,7 @@
 
 ---
 
-22/42 Complete
+22/43 Complete
 
 ---
 
@@ -33,7 +33,7 @@
 - - - - [ ] Division
 - - - [X] Argument-Based
 - - - - [X] Return Indexed Character (0.1)
-- - - - [X] Return Length of Argument Value (0.1.3
+- - - - [X] Return Length of Argument Value (0.1.3)
 - [X] Join Values in Variable (0.1.2)
 - - [ ] Files
 - - - [X] Open Files/URLs (0.0.7)
@@ -41,10 +41,10 @@
 - - - [X] Write In File (0.0.9)
 - - - [ ] Create File
 - - - [X] Read File Data (0.0.8)
-- [ ] Modules (Structures)
-- - [ ] Import Structures
-- - [ ] Use Structure Functions
-
+- - [ ] Modules (Structures)
+- - - [ ] Import Structures
+- - - [ ] Use Structure Functions
+- - [ ] Go To Line
 <b>Statements:</b>
 - [ ] If Statements
 - - [X] Else Statements (0.0.5.2)
