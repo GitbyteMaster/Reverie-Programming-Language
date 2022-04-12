@@ -41,11 +41,11 @@ Reverie is a universal Python file located in `Reverie-Lang.zip` file. Download 
 MAC: /Users/*/Desktop/Reverie-Lang/
 WINDOWS: C://Users/*/Desktop/Reverie-Lang/
 ```
-If you don't want to manually move the files, you can download the Reverie installer [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/ReverieSetup.py) Or you can through copying & pasting the contents into a `.py` on Mac using this command in the Mac terminal.
+If you don't want to manually move the files, you can download the Reverie installer [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/ReverieSetup.py) Or you can through copying & pasting the contents into a file called `ReverieSetup.py` on Mac using this command in the Mac terminal.
 ```
 curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/ReverieSetup.py
 ```
-If you are running it on the platform Darwin (Macintosh), then Reverie is already ready to use.
+Make sure that `Reverie.zip` is downloaded if you are only using it on the installer. If you are running it on the platform Darwin (Macintosh), then Reverie is already ready to use.
 
 ---
 ©GitbyteMasters 2021-2022
