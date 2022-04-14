@@ -13,6 +13,7 @@ else:
             print("Creating directories..")
             os.rename(f"{path}Reverie-Lang",f"{path}revfixed")
             os.mkdir(f"{path}Reverie-Lang")
+	    os.mkdir(f"{path}Reverie-Lang/struct")
             print("Creating files..")
             mfile = open(f"{path}Reverie-Lang/Reverie 0.1.3.1.py","w+")
             sfile = open(f"{path}/revfixed/Reverie 0.1.3.1.py","r")
