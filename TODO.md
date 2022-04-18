@@ -12,6 +12,7 @@
 
 <b>Functions:</b>
 - - [X] Print (0.0.1)
+- - - System Rewrite (0.1.3.2)
 - - [X] Input (0.0.4.1)
 - - [ ] Wait
 - - - [X] Wait Number of Seconds (0.0.3.1)
