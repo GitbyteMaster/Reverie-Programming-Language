@@ -16,7 +16,7 @@ Reverie To-Do List
 - - [X] Input (0.0.4.1)
 - - [ ] Wait
 - - - [X] Wait Number of Seconds (0.0.3.1)
-- - - [ ] Wait Until
+- - - [X] Wait Until (0.1.5)
 - - [X] Variables
 - - - System Rewrite (0.1.3.2)
 - - - [X] Set Variables (0.0.2)
@@ -48,7 +48,7 @@ Reverie To-Do List
 - - [ ] Modules (Structures)
 - - - [ ] Import Structures
 - - - [ ] Use Structure Functions
-- - [ ] Go To Line
+- - [X] Go To Line (0.1.5)
 
 <b>Statements:</b>
 - [ ] If Statements
