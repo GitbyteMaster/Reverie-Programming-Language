@@ -14,7 +14,7 @@ Reverie To-Do List
 - - [X] Print (0.0.1)
 - - - System Rewrite (0.1.3.2)
 - - [X] Input (0.0.4.1)
-- - [ ] Wait
+- - [X] Wait
 - - - [X] Wait Number of Seconds (0.0.3.1)
 - - - [X] Wait Until (0.1.5)
 - - [X] Variables
