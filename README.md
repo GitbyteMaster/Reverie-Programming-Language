@@ -38,17 +38,11 @@ Contribution is more than encouraged! As this isn't a very large project, anyone
 # Installation
 Current Version `v0.1.5` / Version 15
 
-Reverie is a universal Python file located in `Reverie-Lang.zip` file. Download Reverie [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/raw/main/Reverie-Lang.zip) To get the interpreter to work, download [Python](https://www.python.org/downloads/). Once finished, make sure the main `.py` file is located in this directory:
+Reverie is a universal Python file located in `Reverie-Lang.zip` file. Download Reverie [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/raw/main/Reverie-Lang.zip) To get the interpreter to work, download [Python](https://www.python.org/downloads/). Once you do, type this into your command prompt once you've installed the GitHub CLI:
 ```
-MAC: /Users/*/Desktop/Reverie-Lang/
-WINDOWS: C://Users/*/Desktop/Reverie-Lang/
+gh repo clone GitbyteMaster/Reverie-Programming-Language
 ```
-If you don't want to manually move the files, you can download the Reverie installer [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/ReverieSetup.py) Or you can through copying & pasting the contents into a file called `ReverieSetup.py` on Mac using a command in the Mac terminal. These methods aren't ideal though, and it may just be best to gitclone.
-```
-Command:
-curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/ReverieSetup.py
-```
-Make sure that `Reverie.zip` is downloaded if you are only using it on the installer. If you are running it on the platform Darwin (Macintosh), then Reverie is already ready to use.
+There! Done!
 
 ---
 ©GitbyteMasters 2021-2022
