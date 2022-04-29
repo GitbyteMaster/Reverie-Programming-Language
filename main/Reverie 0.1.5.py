@@ -3,7 +3,7 @@ import getpass
 import time
 import subprocess
 
-path = f"/Users/{getpass.getuser()}/Desktop/Reverie-Programming-Language/main/"
+path = f"/Users/{getpass.getuser()}/Desktop/Reverie-Programming-Language-main/main/"
 sdir = os.listdir(path)
 file = ""
 filen = 0
