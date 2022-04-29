@@ -38,13 +38,13 @@ Reverie To-Do List
 - - - - [X] Return Length of Argument Value (0.1.3)
 - - - - - System Rewrite (0.1.3.3)
 - - [X] Join Values in Variable (0.1.2)
-- - [ ] Files
+- - [X] Files
 - - - [X] Open Files/URLs (0.0.7)
 - - - - Bug Fix 1 (0.0.7.1)
 - - - [X] Write In File (0.0.9)
 - - - [X] Create File (0.1.4)
 - - - [X] Read File Data (0.0.8)
-- - - [ ] Delete Files
+- - - [X] Delete Files (0.1.6)
 - - [ ] Modules (Structures)
 - - - [ ] Import Structures
 - - - [ ] Use Structure Functions
