@@ -1,0 +1,6 @@
+var str hi = ("hello")
+if(<hi>=="bye"){
+	system.write("bye")
+}else{
+	system.write("hello!")
+}
