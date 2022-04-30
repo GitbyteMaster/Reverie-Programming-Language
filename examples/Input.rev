@@ -1,6 +1,6 @@
 var str i = (" ")
-var int yes = (00)
-var int no = (00)
+var int yes = (00;)
+var int no = (00;)
 system.input("Do you like cats?",<i>)
 if(<i>=="yes"){
 [<yes>+1]
