@@ -17,17 +17,17 @@ var str hw = ("Hello! would you like to see a demonstration of reverie?")
 var str ans = ("no")
 system.input(<hw>,<ans>)
 if(<ans>=="yes"){
-system.write("It can pause in seconds, like this:")
-time.delay(01;)
-system.write("It can do math! Try it out!)
-var int num1 = (00;)
-var int num2 = (00;)
-system.input("Number 1: ",<num1>)
-system.input("Number 1: ",<num1>)
+  system.write("It can pause in seconds, like this:")
+  time.delay(01;)
+  system.write("It can do math! Try it out!)
+  var int num1 = (00;)
+  var int num2 = (00;)
+  system.input("Number 1: ",<num1>)
+  system.input("Number 1: ",<num1>)
 [<num1>+<num2>]
-system.write(<*>)
+  system.write(<*>)
 }else{
-system.write("Oh. Ok.")
+  system.write("Oh. Ok.")
 }
 ```
 
