@@ -33,6 +33,9 @@ Reverie To-Do List
 - - - - [X] Subtraction (0.0.6)
 - - - - [X] Multiplication (0.0.6.1)
 - - - - [ ] Division
+- - - - [ ] Get Median
+- - - - [ ] Get Mode
+- - - - [ ] Get Mean
 - - - [X] Argument-Based
 - - - - [X] Return Indexed Character (0.1)
 - - - - [X] Return Length of Argument Value (0.1.3)
