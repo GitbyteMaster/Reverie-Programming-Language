@@ -55,6 +55,7 @@ Reverie To-Do List
 
 <b>Statements:</b>
 - [ ] If Statements
+- [ ] System Rewrite (0.1.6.2)
 - - [X] Else Statements (0.0.5.2)
 - - - Bug Fix 1 (0.0.5.4)
 - - [X] Value Equal to Value? (0.0.5)
