@@ -1,4 +1,5 @@
 var str hi = ("hello")
+system.input("Hello! ",<hi>)
 if(<hi>=="bye"){
 	system.write("bye")
 }else{
