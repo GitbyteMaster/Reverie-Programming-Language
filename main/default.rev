@@ -5,3 +5,7 @@ if(<hi>=="bye"){
 }else{
 	system.write("hello!")
 }
+func free{
+	system.write("hope you are having a great time!")
+}
+func.free()
