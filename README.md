@@ -27,6 +27,11 @@ if(<ans>=="yes"){
     system.input("Number 1: ",<num1>)
 [<num1>+<num2>]
     system.write(<*>)
+    system.write("It can also run user-made functions!")
+    func test{
+        system.write("This is a Reverie function!")
+    }
+    test()
 }else{
     system.write("Oh. Ok.")
 }
