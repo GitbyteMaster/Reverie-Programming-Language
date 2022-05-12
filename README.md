@@ -50,7 +50,7 @@ gh repo clone GitbyteMaster/Reverie-Programming-Language
 ```
 Or just install the essentials with `ReverieInstaller.bat`:
 ```
-sh /Users/$USER/Desktop/Reverie-Programming-Language-main/ReverieInstaller.bat  
+sh /Users/$USER/Desktop/ReverieInstaller.bat  
 ```
 There! Done!
 
