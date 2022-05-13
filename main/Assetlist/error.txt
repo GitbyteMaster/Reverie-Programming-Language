@@ -11,3 +11,4 @@ FileError - File Already Exists
 FileError - File or Directory Doesn't Exist
 PermissionError - Please Give Python the Proper Permission
 BasicError - Invalid Syntax
+DatatypeError - Cannot Write Str to Int
