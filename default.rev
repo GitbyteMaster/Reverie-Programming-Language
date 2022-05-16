@@ -1,0 +1,19 @@
+var str greeting = ("Hello, ")
+var str name = ("user")
+system.input("What is your name? ", <name>)
+add(<name>, <greeting>)
+add("! Thank you for installing Reverie!",<greeting>)
+system.write(<greeting>)
+time.delay(01;)
+system.write("Variables:")
+system.write("var str v = ('I'm a variable!')")
+system.write("Arrays:")
+system.write("ar {'I'm', 'an', array!';} = a (Not actuall syntax)")
+system.write("And other general programming functions foun in the docs!")
+var str ans = ("yes")
+system.input("Are you enjoying?",<ans>)
+if(<ans>=="yes"){
+	system.write("That's great!")
+}else{
+	system.write("Oh. understandable really.")
+}
