@@ -1,7 +1,7 @@
 <h1 align="center"><img width="500" alt="Screen Shot 2022-05-01 at 10 51 15 AM" src="https://user-images.githubusercontent.com/76265961/166151336-99366644-1f44-4b43-a421-113ffde94af6.png">
 </h1>
 
-[Docs](https://tinyurl.com/2p8wjwfe) | [Copyright](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/LICENSE.md)
+[Docs](https://tinyurl.com/2p8wjwfe) | [Copyright](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/LICENSE.md) | [To-Do List](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/TODO.md)
 
 ---
 
@@ -51,6 +51,11 @@ gh repo clone GitbyteMaster/Reverie-Programming-Language
 Or just install the essentials with `ReverieInstaller.bat`:
 ```
 sh /Users/$USER/Desktop/ReverieInstaller.bat  
+```
+If you get an error saying `sh: /Users/*/Desktop/ReverieInstaller.bat: No such file or directory`, type these commands in this order:
+```
+curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/ReverieInstaller.bat > /Users/$USER/Desktop/ReverieInstaller.bat
+sh /Users/$USER/Desktop/ReverieInstaller.bat
 ```
 There! Done!
 
