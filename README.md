@@ -31,7 +31,7 @@ if(<ans>=="yes"){
     func test{
         system.write("This is a Reverie function!")
     }
-    test()
+    func.test()
 }else{
     system.write("Oh. Ok.")
 }
