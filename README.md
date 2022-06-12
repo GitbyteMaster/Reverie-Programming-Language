@@ -20,7 +20,7 @@ system.input(<hw>,<ans>)
 if(<ans>=="yes"){
     system.write("It can pause in seconds, like this:")
     time.delay(01;)
-    system.write("It can do math! Try it out!)
+    system.write("It can do math! Try it out!")
     var int num1 = (00;)
     var int num2 = (00;)
     system.input("Number 1: ",<num1>)
