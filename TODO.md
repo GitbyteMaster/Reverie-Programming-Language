@@ -10,6 +10,7 @@ Reverie To-Do List
 
 
 - [X] Context System (0.1.9.1)
+- [ ] Concurrency
 
 <b>Functions:</b>
 - - [X] Print (0.0.1)
