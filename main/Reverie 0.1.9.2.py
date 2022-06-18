@@ -94,7 +94,7 @@ def getval():
                 if not literal:
                     i = var[var.index(vals[len(vals)-1])+1]
                     if var[var.index(vals[len(vals)-1])+2] == "int":
-                        i = int(var[var.index(val[len(vals)-1])+1])
+                        i = int(var[var.index(vals[len(vals)-1])+1])
                     vals[len(vals)-1] = i
                 else:
                     if not len(vals)-1 == lat:
@@ -192,13 +192,13 @@ while not mainum == len(script):
                     mainum += 1
         if "in" in line:
             cond = True
-            if not vals[0] in vals[1]:
+            if not str(vals[0]) in str(vals[1]):
                 cond = False
                 while not "}" in script[mainum]:
                     mainum += 1
         if "!i" in line:
             cond = True
-            if val[0] in val[1]:
+            if str(vals[0]) in str(vals[1]):
                 cond = False
                 while not "}" in script[mainum]:
                     mainum += 1
@@ -210,116 +210,35 @@ while not mainum == len(script):
                 mainum += 1
 
     if "[" in line:
-        numone = 1
-        val = ["",""]
+        getval()
         if "+" in line:
-            if line[numone] == "0":
-                while line[numone+1] in "0123456789":
-                    numone += 1
-                    val[0] = f"{val[0]}{line[numone]}"
-                i = int(val[0])
-                val[0] = i
+            try:
+                vals[0]+0
+            except:
+                err(2)
             else:
-                if line[numone] == "<":
-                    while line[numone+1] in "0123456789":
-                        numone += 1
-                        val[0] = f"{val[0]}{line[numone]}"
-                    if val[0] in var:
-                        print(val[0])
-                        i = int(var[var.index(val[0])+1])
-                        val[0] = i
-                    else:
-                        err(0)
-            numone += 3
-            if line[numone] == "0":
-                while line[numone+1] in "0123456789":
-                    numone += 1
-                    val[1] = f"{val[1]}{line[numone]}"
-                i = int(val[1])
-                val[1] = i
+                var[1] = vals[0]+vals[1]
+        if "/" in line:
+            try:
+                vals[0]+0
+            except:
+                err(2)
             else:
-                if line[numone] == "<":
-                    while line[numone+1] in "0123456789":
-                        numone += 1
-                        val[1] = f"{val[1]}{line[numone]}"
-                    if val[1] in var:
-                        i = int(var[var.index(val[1])+1])
-                        val[1] = i
-                    else:
-                        err(0)
-
-        if "-" in line:
-            if line[numone] == "0":
-                while line[numone+1] in "0123456789":
-                    numone += 1
-                    val[0] = f"{val[0]}{line[numone]}"
-                i = int(val[0])
-                val[0] = i
-            else:
-                if line[numone] == "<":
-                    while line[numone+1] in "0123456789":
-                        numone += 1
-                        val[0] = f"{val[0]}{line[numone]}"
-                    if val[0] in var:
-                        i = int(var[var.index(val[0])+1])
-                        val[0] = i
-                    else:
-                        err(0)
-            numone += 3
-            if line[numone] == "0":
-                while line[numone+1] in "0123456789":
-                    numone += 1
-                    val[1] = f"{val[1]}{line[numone]}"
-                i = int(val[1])
-                val[1] = i
-            else:
-                if line[numone] == "<":
-                    while line[numone+1] in "0123456789":
-                        numone += 1
-                        val[1] = f"{val[1]}{line[numone]}"
-                    if val[1] in var:
-                        i = int(var[var.index(val[1])+1])
-                        val[1] = i
-                    else:
-                        err(0)
-            var[var.index("*")+1] = int(val[0])-int(val[1])
-
+                var[1] = vals[0]/vals[1]
         if "x" in line:
-            if line[numone] == "0":
-                while line[numone+1] in "0123456789":
-                    numone += 1
-                    val[0] = f"{val[0]}{line[numone]}"
-                i = int(val[0])
-                val[0] = i
+            try:
+                vals[0]+0
+            except:
+                err(2)
             else:
-                if line[numone] == "<":
-                    while line[numone+1] in "0123456789":
-                        numone += 1
-                        val[0] = f"{val[0]}{line[numone]}"
-                    if val[0] in var:
-                        i = int(var[var.index(val[0])+1])
-                        val[0] = i
-                    else:
-                        err(0)
-            numone += 3
-            if line[numone] == "0":
-                while line[numone+1] in "0123456789":
-                    numone += 1
-                    val[1] = f"{val[1]}{line[numone]}"
-                i = int(val[1])
-                val[1] = i
+                var[1] = vals[0]*vals[1]
+        if "-" in line:
+            try:
+                vals[0]+0
+            except:
+                err(2)
             else:
-                if line[numone] == "<":
-                    while line[numone+1] in "0123456789":
-                        numone += 1
-                        val[1] = f"{val[1]}{line[numone]}"
-                    if val[1] in var:
-                        i = int(var[var.index(val[1])+1])
-                        val[1] = i
-                    else:
-                        err(0)
-            var[var.index("*")+1] = int(val[0])*int(val[1])
-            
+                var[1] = vals[0]-vals[1]
         if "of" in line:
             if line[numone] == "0":
                 while line[numone+1] in "0123456789":
