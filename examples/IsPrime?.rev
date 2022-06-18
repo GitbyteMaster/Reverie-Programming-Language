@@ -1,0 +1,13 @@
+var int num = (01;)
+if(<num>==01500;){
+	goto(014;)
+}else{
+	var str prime = ("true")
+	[(<num>+01;)]
+	var int num = (<*>)
+	[(<num>/02;)]
+	if(".0"!i<*>){
+		var str prime = ("false")
+	}
+    system.write(<prime>)
+	goto(02;)
