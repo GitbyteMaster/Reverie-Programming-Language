@@ -20,7 +20,6 @@ Reverie gets many updates, see all of Reverie's development an what's next to co
 # Why Reverie?
 The Reverie programming language comes with simple syntax and methods for development. It is open source for developers to modify into a shape of their choice (See [COPYRIGHT](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/COPYRIGHT.md).) It is made in an adaptable format to work with multiple Python shells of different devices that interpret varied syntax. Overall, it is mostly a simple script interpreter.
 
-Using [bichanna](https://github.com/bichanna)'s speed testing 'prime' benchmark, it was found to have finished at 1.81s. 
 # Contribution
 Contribution is more than encouraged! As this isn't a very large project, anyone who chooses to join without any malicious intent will be informed on ways to help! 🤩
 # Installation
