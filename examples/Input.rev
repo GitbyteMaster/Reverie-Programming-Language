@@ -3,9 +3,9 @@ var int yes = (00;)
 var int no = (00;)
 system.input("Do you like cats?",<i>)
 if(<i>=="yes"){
-[<yes>+1]
-var int yes = (<*>)
+    [(<yes>+1)]
+    var int yes = (<*>)
 }else{
-[<no>+1]
-var int yes = (<*>)
+    [(<no>+01;)]
+    var int no = (<*>)
 }
