@@ -3,7 +3,7 @@ var int num2 = (00;)
 var str ans = (" ")
 system.input("First number?: ",<num1>)
 system.input("Second number?: ",<num2>)
-[<num1>+<num2>]
+[(<num1>+<num2>)]
 var int ans = ("Your Answer Is: ")
 add(<*>,<ans>)
 system.write(<ans>)
