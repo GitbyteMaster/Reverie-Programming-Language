@@ -23,7 +23,7 @@ The Reverie programming language comes with simple syntax and methods for develo
 # Contribution
 Contribution is more than encouraged! As this isn't a very large project, anyone who chooses to join without any malicious intent will be informed on ways to help! 🤩
 # Installation
-Current Version `v0.1.9.3` / Version 1
+Current Version `v0.2` / Version 2
 
 Reverie is a universal Python file located in `Reverie-Lang.zip` file. Download Reverie [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/raw/main/Reverie-Lang.zip) To get the interpreter to work, download [Python](https://www.python.org/downloads/). Once you do, type this into your command prompt once you've installed the GitHub CLI:
 ```
