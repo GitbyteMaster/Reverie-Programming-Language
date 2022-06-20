@@ -9,7 +9,7 @@ Reverie To-Do List
 
 
 
-- [X] Context System (0.1.9.1)
+- [X] Help System (0.1.9.1)
 - [ ] Concurrency
 
 <b>Functions:</b>
@@ -30,11 +30,12 @@ Reverie To-Do List
 - - - - [ ] Add Between Values
 - - - - [ ] Delete From Arrays
 - - [ ] Operations
+- - - System Rewrite (0.1.9.3)
 - - - [ ] Numerals
 - - - - [X] Addition (0.0.6)
 - - - - [X] Subtraction (0.0.6)
 - - - - [X] Multiplication (0.0.6.1)
-- - - - [ ] Division
+- - - - [X] Division (0.1.9.3)
 - - - - [ ] Get Median
 - - - - [ ] Get Mode
 - - - - [ ] Get Mean
@@ -56,6 +57,9 @@ Reverie To-Do List
 - - - [ ] Use Structure Functions
 - - [X] Go To Line (0.1.5)
 - - [ ] Find Parameter Source
+- - [X] Custom Functions (0.1.8)
+- - - [X] Call Custom Functions (0.1.8)
+- - - [X] Create Custom Functions (0.1.8)
 
 <b>Statements:</b>
 - [ ] If Statements
