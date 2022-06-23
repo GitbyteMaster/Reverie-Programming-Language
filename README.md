@@ -23,7 +23,7 @@ The Reverie programming language comes with simple syntax and methods for develo
 # Contribution
 Contribution is more than encouraged! As this isn't a very large project, anyone who chooses to join without any malicious intent will be informed on ways to help! 🤩
 # Installation
-Current Version `v0.2` / Version 2
+Current Version `v0.2.1` / Version 2
 
 Reverie is a universal Python file. To get the interpreter to work, download [Python](https://www.python.org/downloads/).
 ## MacOS
@@ -31,14 +31,14 @@ Once you do, type this into your command prompt once you've installed the GitHub
 ```
 gh repo clone GitbyteMaster/Reverie-Programming-Language
 ```
-Or just install the essentials with `ReverieInstaller.bat`:
+Or just install the essentials with `ReverieInstaller.sh`:
 ```
-sh /Users/$USER/Desktop/ReverieInstaller.bat  
+sh /Users/$USER/Desktop/ReverieInstaller.sh  
 ```
-If you get an error saying `sh: /Users/*/Desktop/ReverieInstaller.bat: No such file or directory`, type these commands in this order:
+If you get an error saying `sh: /Users/*/Desktop/ReverieInstaller.sh: No such file or directory`, type these commands in this order:
 ```
-curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/ReverieInstaller.bat > /Users/$USER/Desktop/ReverieInstaller.bat
-sh /Users/$USER/Desktop/ReverieInstaller.bat
+curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/ReverieInstaller.sh > /Users/$USER/Desktop/ReverieInstaller.sh
+sh /Users/$USER/Desktop/ReverieInstaller.sh
 ```
 There! Done!
 
