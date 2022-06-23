@@ -5,7 +5,7 @@
 
 ---
 
-![1](https://img.shields.io/badge/MacOS-Ready-brightgreen) ![2](https://img.shields.io/badge/Windows-Mostly-green) ![1](https://img.shields.io/badge/Linux-No-red)
+![1](https://img.shields.io/badge/MacOS-Ready-brightgreen) ![2](https://img.shields.io/badge/Windows-Mostly-green) ![1](https://img.shields.io/badge/Linux-Yes-brightgreen)
 
 # What is Reverie?
 Reverie is a simple, mostly Python-based object oriented programming language with the objective of reutilizing the Python programming language for software developers. Reverie is made with high hopes that Python will continue to grow in numbers of software like it did before.
