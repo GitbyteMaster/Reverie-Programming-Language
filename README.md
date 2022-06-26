@@ -41,14 +41,14 @@ Once you do, type this into your command prompt once you've installed the GitHub
 ```
 gh repo clone GitbyteMaster/Reverie-Programming-Language
 ```
-Or just install the essentials with `ReverieInstaller.sh`:
+Or just install the essentials with `build.sh`:
 ```
-sh /Users/$USER/Desktop/ReverieInstaller.sh  
+sh /Users/$USER/Desktop/build.sh  
 ```
-If you get an error saying `sh: /Users/*/Desktop/ReverieInstaller.sh: No such file or directory`, type these commands in this order:
+If you get an error saying `sh: /Users/*/Desktop/build.sh: No such file or directory`, type these commands in this order:
 ```
-curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/ReverieInstaller.sh > /Users/$USER/Desktop/ReverieInstaller.sh
-sh /Users/$USER/Desktop/ReverieInstaller.sh
+curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/build.sh > /Users/$USER/Desktop/build.sh
+sh /Users/$USER/Desktop/build.sh
 ```
 ## Windows
 Once you do, type this into your command prompt once you've installed the GitHub CLI:
