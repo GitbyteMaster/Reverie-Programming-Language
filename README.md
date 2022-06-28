@@ -22,10 +22,10 @@ The Reverie programming language comes with simple syntax and methods for develo
 
 To execute a Reverie file, you must call [a] certain command[s] varying by your device.
 ## MacOS
-```
+```shell
 source /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/revexec.sh
 revexec ./file
-```
+```batch
 ## Windows
 ```
 CALL /Users/DaBros/Desktop/Reverie-Programming-Language-main/main/Assetlist/revexec.bat ./file
@@ -38,21 +38,21 @@ Current Version `v0.2.1` / Version 2
 Reverie is a universal Python file. To get the interpreter to work, download [Python](https://www.python.org/downloads/).
 ## MacOS
 Once you do, type this into your command prompt once you've installed the GitHub CLI:
-```
+```shell
 gh repo clone GitbyteMaster/Reverie-Programming-Language
 ```
 Or just install the essentials with `build.sh`:
-```
+```shell
 sh /Users/$USER/Desktop/build.sh  
 ```
 If you get an error saying `sh: /Users/*/Desktop/build.sh: No such file or directory`, type these commands in this order:
-```
+```shell
 curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/build.sh > /Users/$USER/Desktop/build.sh
 sh /Users/$USER/Desktop/build.sh
 ```
 ## Windows
 Once you do, type this into your command prompt once you've installed the GitHub CLI:
-```
+```batch
 gh repo clone GitbyteMaster/Reverie-Programming-Language
 ```
 There! Done!
