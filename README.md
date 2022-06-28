@@ -25,9 +25,9 @@ To execute a Reverie file, you must call [a] certain command[s] varying by your 
 ```shell
 source /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/revexec.sh
 revexec ./file
-```batch
-## Windows
 ```
+## Windows
+```batch
 CALL /Users/DaBros/Desktop/Reverie-Programming-Language-main/main/Assetlist/revexec.bat ./file
 ```
 # Contribution
