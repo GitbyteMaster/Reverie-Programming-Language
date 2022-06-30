@@ -11,7 +11,7 @@ source /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/rev
 revexec ./file
 ```
 > Windows
-```
+```batch
 CALL /Users/DaBros/Desktop/Reverie-Programming-Language-main/main/Assetlist/revexec.bat ./file
 ```
 You will receive an error if this file doesn't exist, however.
