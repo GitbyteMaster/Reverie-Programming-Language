@@ -27,16 +27,6 @@ Reverie gets many updates, see all of Reverie's development an what's next to co
 # Why Reverie?
 The Reverie programming language comes with simple syntax and methods for development. It is open source for developers to modify into a shape of their choice (See [COPYRIGHT](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/COPYRIGHT.md).) It is made in an adaptable format to work with multiple Python shells of different devices that interpret varied syntax. Overall, it is mostly a simple script interpreter.
 
-To execute a Reverie file, you must call [a] certain command[s] varying by your device.
-## MacOS
-```shell
-source /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/revexec.sh
-revexec ./file
-```
-## Windows
-```batch
-CALL /Users/DaBros/Desktop/Reverie-Programming-Language-main/main/Assetlist/revexec.bat ./file
-```
 # Contribution
 Contribution is more than encouraged! As this isn't a very large project, anyone who chooses to join without any malicious intent will be informed on ways to help! 🤩
 # Installation
