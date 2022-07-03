@@ -19,7 +19,7 @@ Reverie is a simple, mostly Python-based object oriented programming language wi
 
 It shares the same/simliar syntax and purpose as the [PRIME Programming Language](https://github.com/GitbyteMaster/PRIME-Lang), as it is a simple, cleaner rebuild of PRIME.
 
-Reverie gets many updates, see all of Reverie's development an what's next to come [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/TODO.md)
+Reverie gets many updates, see all of Reverie's development and what's next to come [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/TODO.md)
 
 <img width="1132" alt="Screen Shot 2022-06-12 at 2 28 57 PM" src="https://user-images.githubusercontent.com/76265961/173247942-e3521cf6-0ef4-4a2c-9ac4-5fb81ce69f0b.png">
 
