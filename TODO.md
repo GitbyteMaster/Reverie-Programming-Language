@@ -11,6 +11,11 @@ Reverie To-Do List
 
 - [X] Help System (0.1.9.1)
 - [ ] Concurrency
+- [ ] String Interpolation
+- - [X] Variables (0.1.9.2)
+- - [X] Newline (0.1.9.2)
+- - - System Rewrite (0.2)
+- - [ ] Other Characters
 
 <b>Functions:</b>
 - - [X] Print (0.0.1)
