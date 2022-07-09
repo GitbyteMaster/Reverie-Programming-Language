@@ -9,5 +9,5 @@ if(<num>==01500;){
 	if(".0"!i<*>){
 		var str prime = ("false")
 	}
-    system.write(<prime>)
+        system.write(<prime>)
 	goto(02;)
