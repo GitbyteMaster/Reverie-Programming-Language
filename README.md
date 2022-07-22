@@ -46,10 +46,10 @@ Once you do, type this into your command prompt once you've installed the GitHub
 ```batch
 gh repo clone GitbyteMaster/Reverie-Programming-Language
 ```
-Or just install the essentials with `Install.sh`:
+Or just install the essentials with `Install.bat`:
 ```batch
-CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/Install.sh > /Users/$USER/Desktop/Install.sh
-CALL /Users/$USER/Desktop/Install.sh
+CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/Install.sh > C:\Users\%USERNAME%\Desktop\Install.bat
+CALL C:\Users\%USERNAME%\Desktop\Install.bat
 ```
 There! Done!
 
