@@ -2,13 +2,16 @@
 
 ![newlogo-ex](https://user-images.githubusercontent.com/76265961/176326759-4e126574-f04d-4158-a478-02c70f73b72a.svg)
 
+A simple programming language built on the aknowledgement of flaws
+
+------
+
 ![1](https://img.shields.io/badge/MacOS-Ready-brightgreen) ![2](https://img.shields.io/badge/Windows-Ready-brightgreen) ![1](https://img.shields.io/badge/Linux-Mostly-green)
 
 [Docs](https://tinyurl.com/2p8wjwfe) | [Copyright](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/LICENSE.md) | [To-Do List](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/TODO.md)
 
 </div>
 
----
 
 
 # What is Reverie?
