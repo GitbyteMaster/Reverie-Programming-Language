@@ -30,7 +30,7 @@ The Reverie programming language comes with simple syntax and methods for develo
 # Contribution
 Contribution is more than encouraged! As this isn't a very large project, anyone who chooses to join without any malicious intent will be informed on ways to help! 🤩
 # Installation & Updating
-Current Version `v0.2.1` / Version 2
+Current Version `v0.2.2` / Version 2
 
 Reverie is a universal Python file. To get the interpreter to work, download [Python](https://www.python.org/downloads/).
 ## MacOS
