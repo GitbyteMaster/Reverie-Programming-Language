@@ -500,7 +500,23 @@ while not mainum == len(script):
                 note = True
             if "*/" in line:
                 note = False
-            
+            if "file.find(" in line:
+                literal = True
+                lat = 1
+                getval()
+                try:
+                    vals[0] + 0
+                except TypeError:
+                    if vals[1] in var:
+                        if var[var.index(vals[1])+2] == "str":
+                            os.system(f"which {vals[0]} > /Users/{getpass.getuser()}/Desktop/Reverie-Programming-Language-main/main/Assetlist/cmdobj.txt")
+                            var[var.index(vals[1])+1] = cmdobj.read()
+                            os.system(f"echo empty > /Users/{getpass.getuser()}/Desktop/Reverie-Programming-Language-main/main/Assetlist/cmdobj.txt")
+                        else:
+                            err(13)
+                    else:
+                        err(0)
+                        
     vals = []
     val = []
 time.sleep(1)
