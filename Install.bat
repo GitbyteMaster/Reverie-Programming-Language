@@ -1,7 +1,7 @@
 ECHO Installing Reverie..
 MKDIR /Users/$USER/Desktop/Reverie-Programming-Language-main/
 MKDIR /Users/$USER/Desktop/Reverie-Programming-Language-main/main/
-CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/main/Reverie%200.2.1.py > /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Reverie\ 0.2.1.py
+CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/main/Reverie.py > /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Reverie.py
 MKDIR /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/
 
 CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/main/Assetlist/error.txt > /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/error.txt
