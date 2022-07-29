@@ -1,3 +1,4 @@
+# put([type], [str/int/var])
 if [ $1 -eq 1 ];then
 	if [[ "$3" == "" ]];then
 		sh /Users/$USER/Reverie/src/error.sh 3 $2
@@ -22,6 +23,7 @@ if [ $1 -eq 1 ];then
 		fi
 	fi
 fi
+# pause([int])
 if [ $1 -eq 2 ];then
 	if [ $# -eq 3 ];then
 		sleep $3
@@ -32,10 +34,12 @@ if [ $1 -eq 2 ];then
 		sh /Users/$USER/Reverie/src/error.sh 1 $2
 	fi
 fi
+# open(str)
 if [ $1 -eq 3 ];then
 	if [ $# -eq 3 ];then
-		if ! [[ $2 =~ $int ]];then
-			open $2
+		open $3
+		if ! [ $? -eq 0 ];then
+			sh /Users/$USER/Reverie/src/error.sh 6 $2
 		fi
 	else
 		sh /Users/$USER/Reverie/src/error.sh 1 $2

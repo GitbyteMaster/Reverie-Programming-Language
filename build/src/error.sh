@@ -14,3 +14,6 @@ fi
 if [ $1 -eq 5 ];then
 	echo [!] Line $2 - Invalid syntax: Please close parenthesis
 fi
+if [ $1 -eq 6 ];then
+	echo [!] Line $2 - Expected string
+fi
