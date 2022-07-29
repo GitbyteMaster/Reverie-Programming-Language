@@ -1,13 +1,13 @@
-echo Installing Reverie..
-mkdir /Users/$USER/Desktop/Reverie-Programming-Language-main/
-mkdir /Users/$USER/Desktop/Reverie-Programming-Language-main/main/
-curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/main/Reverie.py > /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Reverie.py
-mkdir /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/
+echo "Creating Directories.."
+mkdir "/Users/$USER/Reverie"
+mkdir "/Users/$USER/Reverie/src"
 
-curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/main/Assetlist/error.txt > /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/error.txt
-echo empty > /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/cmdobj.txt
-curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/main/Assetlist/context.py > /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/context.py
-echo empty > /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/toexec.txt
-curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/main/Assetlist/revexec.sh > /Users/$USER/Desktop/Reverie-Programming-Language-main/main/Assetlist/revexec.sh
+echo "Creating Files.."
+echo > "/Users/$USER/Reverie/src/run"
 
-echo Installation Finished! Thank You for Downloading the Reverie Programming Language!
+echo "Downloading Files.."
+curl "https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3\%2B/build/main.py" > "/Users/$USER/Reverie/main.py"
+curl "https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3\%2B/build/src/func.sh" > "/Users/$USER/Reverie/src/func.sh"
+curl "https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3\%2B/build/src/error.sh" > "/Users/$USER/Reverie/src/error.sh"
+
+echo "Installation Finished! Thank You for Downloading the Reverie Programming Language!"
