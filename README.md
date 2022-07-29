@@ -1,6 +1,6 @@
 <div align="center">
 
-![newlogo-ex](https://user-images.githubusercontent.com/76265961/176326759-4e126574-f04d-4158-a478-02c70f73b72a.svg)
+![logo](https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/assets/logo.svg)
 
 A simple programming language built on the aknowledgement of flaws
 
