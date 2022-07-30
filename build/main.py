@@ -44,10 +44,25 @@ while not mainum == len(script):
     mainum += 1
     line = script[mainum-1]
     if not "//" in line or note:
-        if "put" in line:
+        if "put(" in line:
+            paramcollect()
             if platform.system() != "Windows":
-                paramcollect()
-                os.system(f"sh /Users/{getpass.getuser()}/Reverie/src/func.sh 1 {mainum} {vals}")
-
+                os.system(f"sh /Users/$USER/Reverie/src/func.sh 1 {mainum} {vals}")
+            else:
+                os.system(f"CALL C:\Users\%USERNAME\Reverie\src\func.bat 1 {mainum} {vals}")
+                        if "put" in line:
+            paramcollect()
+        if "pause(" in line:
+            paramcollect()
+            if platform.system() != "Windows":
+                os.system(f"sh /Users/$USER/Reverie/src/func.sh 2 {mainum} {vals}")
+            else:
+                os.system(f"CALL C:\Users\%USERNAME\Reverie\func.bat 2 {mainum} {vals}")
+        if "open(" in line:
+            paramcollect()
+            if platform.system() != "Windows":
+                os.system(f"sh /Users/$USER/Reverie/src/func.sh 3 {mainum} {vals}")
+            else:
+                os.system(f"CALL C:\Users\%USERNAME\Reverie\func.bat 3 {mainum} {vals}
     vals = ""
 time.sleep(1)
