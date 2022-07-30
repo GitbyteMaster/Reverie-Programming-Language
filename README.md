@@ -2,7 +2,7 @@
 
 ![logo](https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/assets/logo.svg)
 
-A simple programming language built on the aknowledgement of flaws
+A simple programming language built on unique flaw
 
 ------
 
