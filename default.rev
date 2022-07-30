@@ -1,6 +1,6 @@
 var str greeting = ("Hello, ")
 var str name = ("user")
-system.input("What is your name? ", <name>)
+ask("What is your name? ", <name>)
 add(<name>, <greeting>)
 add("! Thank you for installing Reverie!",<greeting>)
 system.write(<greeting>)
