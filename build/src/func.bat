@@ -23,7 +23,7 @@ CALL C:\Users\%USERNAME%\Reverie\src\error.bat 1 $2
 )
 )
 )
-# pause([int])
+REM pause([int])
 if "%1"=="2" (
 if "%4"!="" (
 TIMEOUT %3
@@ -34,7 +34,7 @@ CALL C:\Users\%USERNAME%\Reverie\src\error.bat 2 %2
 CALL C:\Users\%USERNAME%\Reverie\src\error.bat 1 $2
 )
 )
-# open(str)
+REM open(str)
 IF "%1"=="3" (
 IF "%4"!="" (
 START %3
