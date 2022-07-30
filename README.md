@@ -6,7 +6,7 @@ A simple programming language built on unique flaws
 
 ------
 
-![1](https://img.shields.io/badge/MacOS-Ready-brightgreen) ![2](https://img.shields.io/badge/Windows-Ready-brightgreen) ![1](https://img.shields.io/badge/Linux-Mostly-green)
+![1](https://img.shields.io/badge/MacOS-Maybe-green) ![2](https://img.shields.io/badge/Windows-Soon-yellow) ![1](https://img.shields.io/badge/Linux-Soon-yellow)
 
 [Docs](https://tinyurl.com/2p8wjwfe) | [Copyright](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/LICENSE.md) | [To-Do List](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/TODO.md)
 
@@ -21,8 +21,9 @@ It shares the same/simliar syntax and purpose as the [PRIME Programming Language
 
 Reverie gets many updates, see all of Reverie's development and what's next to come [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/TODO.md)
 
-<img width="1132" alt="Screen Shot 2022-06-12 at 2 28 57 PM" src="https://user-images.githubusercontent.com/76265961/173247942-e3521cf6-0ef4-4a2c-9ac4-5fb81ce69f0b.png">
-
+```python
+put("-d", "Hello World!")
+```
 
 # Why Reverie?
 The Reverie programming language comes with simple syntax and methods for development. It is open source for developers to modify into a shape of their choice (See [COPYRIGHT](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/COPYRIGHT.md).) It is made in an adaptable format to work with multiple Python shells of different devices that interpret varied syntax. Overall, it is mostly a simple script interpreter.
