@@ -18,5 +18,5 @@ if [ $1 -eq 6 ];then
 	echo [!] Line $2 - Expected string
 fi
 if [ $1 -eq 7 ];then
-	echo [!] Line $2 - File already exist
+	echo [!] Line $2 - File already exists
 fi
