@@ -42,7 +42,7 @@ gh repo clone GitbyteMaster/Reverie-Programming-Language
 Or just install the essentials with `Install.sh`:
 
 ```shell
-curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/Install.sh > /Users/$USER/Desktop/Install.sh
+curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/Install.sh > /Users/$USER/Desktop/Install.sh
 sh /Users/$USER/Desktop/Install.sh
 ```
 ## Windows
@@ -52,7 +52,7 @@ gh repo clone GitbyteMaster/Reverie-Programming-Language
 ```
 Or just install the essentials with `Install.bat`:
 ```batch
-CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/main/Install.sh > C:\Users\%USERNAME%\Desktop\Install.bat
+CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3\%2B/Install.bat > C:\Users\%USERNAME%\Desktop\Install.bat
 CALL C:\Users\%USERNAME%\Desktop\Install.bat
 ```
 There! Done!
