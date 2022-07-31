@@ -17,3 +17,6 @@ IF "%1"=="5" (
 IF "%1"=="6" (
 	ECHO [!] Line %2 - Expected string
 )
+IF "%1"=="7" (
+	ECHO [!] Line %2 - File already exists
+)
