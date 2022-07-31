@@ -39,7 +39,7 @@ Once you do, type this into your command prompt once you've installed the GitHub
 ```shell
 gh repo clone GitbyteMaster/Reverie-Programming-Language
 ```
-Or just install the essentials with `Install.sh`:
+Or just install the essentials with `Install.sh` with this annoyingly long command:
 
 ```shell
 curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/Install.sh > /Users/$USER/Desktop/Install.sh
