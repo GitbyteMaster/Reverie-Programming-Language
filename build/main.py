@@ -50,8 +50,6 @@ while not mainum == len(script):
                 os.system(f"sh /Users/$USER/Reverie/src/func.sh 1 {mainum} {vals}")
             else:
                 os.system(f"CALL C:\Users\%USERNAME\Reverie\src\func.bat 1 {mainum} {vals}")
-                        if "put" in line:
-            paramcollect()
         if "pause(" in line:
             paramcollect()
             if platform.system() != "Windows":
