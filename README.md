@@ -15,7 +15,7 @@ A simple programming language built on unique flaws
 
 
 # What is Reverie?
-Reverie is a simple, mostly Python-based object oriented programming language with the objective of reutilizing the Python programming language for software developers. Reverie is made with high hopes that Python will continue to grow in numbers of software like it did before.
+Reverie is a simple, mostly Python-based object oriented programming language with the objective of reutilizing the Python programming language for software developers. Reverie is made with high hopes that Python (with extension) will continue to grow in numbers of software like it did before.
 
 It is the sucessor of [PRIME Programming Language](https://github.com/GitbyteMaster/PRIME-Lang), as it is a simple, cleaner rebuild of PRIME.
 
@@ -26,7 +26,7 @@ put("-d", "Hello World!")
 ```
 
 # Why Reverie?
-The Reverie programming language comes with simple syntax and methods for development. It is open source for developers to modify into a shape of their choice (See [COPYRIGHT](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/COPYRIGHT.md).) It is made in an adaptable format to work with multiple Python shells of different devices that interpret varied syntax. Overall, it is mostly a simple script interpreter.
+The Reverie programming language comes with simple syntax and methods for development. It is open source for developers to modify into a shape of their choice (See [COPYRIGHT](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/COPYRIGHT.md).) It is made in an adaptable format to work with multiple Python shells of different devices that interpret varied syntax.
 
 # Contribution
 Contribution is more than encouraged! As this isn't a very large project, anyone who chooses to join without any malicious intent will be informed on ways to help! 🤩
