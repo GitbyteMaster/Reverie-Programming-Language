@@ -1,3 +1,4 @@
+@ECHO OFF
 ECHO Creating Directories..
 MKDIR C:\Users\%USERNAME%\Reverie
 MKDIR C:\Users\%USERNAME%\Reverie\src
