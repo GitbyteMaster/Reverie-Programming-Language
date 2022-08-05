@@ -26,10 +26,11 @@ put("-d", "Hello World!")
 ```
 
 # Why Reverie?
-The Reverie programming language comes with simple syntax and methods for development. It is open source for developers to modify into a shape of their choice (See [COPYRIGHT](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/COPYRIGHT.md).) It is made in an adaptable format to work with multiple Python shells of different devices that interpret varied syntax.
+The Reverie programming language comes with simplified syntax for any kind of software development. It is open source for developers to modify into a shape of their choice. It is made in Python format to work with multiple Python shells (Over 3.8) of different devices that interpret varied syntax.
 
 # Contribution
 Contribution is more than encouraged! As this isn't a very large project, anyone who chooses to join without any malicious intent will be informed on ways to help! 🤩
+
 # Installation & Updating
 Current Version `v1`
 
