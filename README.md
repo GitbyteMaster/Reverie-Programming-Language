@@ -8,7 +8,7 @@ A simple programming language built on unique flaws
 
 ![0](https://img.shields.io/badge/Complete-No-red) ![1](https://img.shields.io/badge/MacOS-Maybe-green)![2](https://img.shields.io/badge/Windows-Soon-yellow)![3](https://img.shields.io/badge/Linux-Maybe-green)
 
-[Docs]() | [Copyright](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/LICENSE.md) | [To-Do List](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/TODO.md)
+[Docs]() | [Copyright](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/LICENSE.md) | [To-Do List](https://github.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/TODO.md)
 
 </div>
 
