@@ -68,11 +68,12 @@ if [ $1 -eq 4 ];then
 			else
 				sh /Users/$USER/Reverie/src/error.sh 1 $2
 			fi
+		fi
 		if [[ "$3" == "-r" ]];then
-			if [ $# -eq 4 ];then
-				if [ -f $3 ];then
-					if ! [ -f $4 ];then
-						mv $3 $4
+			if [ $# -eq 5 ];then
+				if [ -f $4 ];then
+					if ! [ -f $5 ];then
+						mv $4 $5
 					else
 						sh /Users/$USER/Reverie/src/error.sh 7 $2
 					fi
@@ -82,3 +83,6 @@ if [ $1 -eq 4 ];then
 			else
 				sh /Users/$USER/Reverie/src/error.sh 1 $2
 			fi
+		fi
+	fi
+fi
