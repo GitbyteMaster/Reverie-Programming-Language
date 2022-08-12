@@ -34,7 +34,7 @@ Contribution is more than encouraged! As this isn't a very large project, anyone
 # Installation & Updating
 Current Version `v1`
 
-Reverie is a universal Python file. To get the interpreter to work, download [Python](https://www.python.org/downloads/).
+Reverie is a universal language that calls functions through a Python file. To get the function caller to work, download [Python](https://www.python.org/downloads/).
 ## MacOS
 Once you do, type this into your command prompt once you've installed the GitHub CLI:
 ```shell
