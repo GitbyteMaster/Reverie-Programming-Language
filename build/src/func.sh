@@ -55,10 +55,10 @@ if [ $1 -eq 4 ];then
 		sh /Users/$USER/Reverie/src/error.sh 3 $2
 	else
 		if [[ "$3" == "-d" ]];then
-			if [ $# -eq 4 ];then
+			if [ $# -eq 5 ];then
 				if [ -f $3 ];then
 					if [ -d $4 ];then
-						mv $3 $4
+						mv $4 $5
 					else
 						sh /Users/$USER/Reverie/src/error.sh 4 $2
 					fi
