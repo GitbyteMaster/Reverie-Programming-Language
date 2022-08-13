@@ -47,4 +47,33 @@ IF "%1"=="3" (
   ) ELSE (
     CALL C:\Users\%USERNAME%\Reverie\src\error.bat 1 %2
   )
-)
+
+REM move([type], [str/var], [str/var])
+IF "%1"=="4" (
+  IF "%~3"=="" (
+    CALL C:\Users\Reverie\src\error.bat 3 %2
+  ) ELSE (
+    IF "%3"=="-d" (
+      IF "%~6"=="" (
+        IF EXIST %4 (
+	  IF EXIST %5 (
+            MOVE /Y %4 %5
+          ) ELSE (
+            CALL C:\Users\Reverie\src\error.bat 4 %2
+          )
+        ) ELSE (
+          CALL C:\Users\Reverie\src\error.bat 4 %2
+        )
+      )
+    IF "%3"=="-r" (
+      IF "%~6"=="" (
+        IF EXIST %4 (
+	  IF NOT EXIST %5 (
+            REN %4 %5
+          ) ELSE (
+            CALL C:\Users\Reverie\src\error.bat 4 %2
+          )
+        ) ELSE (
+          CALL C:\Users\Reverie\src\error.bat 4 %2
+        )
+      )
