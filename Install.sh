@@ -1,6 +1,10 @@
 echo "Creating Directories.."
-mkdir "/Users/$USER/Reverie"
-mkdir "/Users/$USER/Reverie/src"
+if [ -d "/Users/$USER/Reverie" ];then
+    mkdir "/Users/$USER/Reverie"
+fi
+if [ -d "/Users/$USER/Reverie/src" ];then
+    mkdir "/Users/$USER/Reverie/src"
+fi
 
 echo "Creating Files.."
 echo > "/Users/$USER/Reverie/src/run"
