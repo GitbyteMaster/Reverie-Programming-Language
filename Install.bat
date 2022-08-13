@@ -1,7 +1,11 @@
 @ECHO OFF
 ECHO Creating Directories..
-MKDIR C:\Users\%USERNAME%\Reverie
-MKDIR C:\Users\%USERNAME%\Reverie\src
+IF NOT EXIST C:\Users\%USERNAME%\Reverie (
+  MKDIR C:\Users\%USERNAME%\Reverie
+)
+IF NOT EXIST C:\Users\%USERNAME%\Reverie\src (
+ MKDIR C:\Users\%USERNAME%\Reverie\src
+)
 
 ECHO Creating Files..
 ECHO > C:\Users\%USERNAME%\Reverie\main.py\run
