@@ -36,22 +36,14 @@ Current Version `v1`
 
 Reverie is a universal language that calls functions through a Python file. To get the function caller to work, download [Python](https://www.python.org/downloads/).
 ## MacOS
-Once you do, type this into your command prompt once you've installed the GitHub CLI:
-```shell
-gh repo clone GitbyteMaster/Reverie-Programming-Language
-```
-Or just install the essentials with `Install.sh` with this annoyingly long command:
+Type this into Terminal:
 
 ```shell
 curl https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/Install.sh > /Users/$USER/Desktop/Install.sh
 sh /Users/$USER/Desktop/Install.sh
 ```
 ## Windows
-Once you do, type this into your command prompt once you've installed the GitHub CLI:
-```batch
-gh repo clone GitbyteMaster/Reverie-Programming-Language
-```
-Or just install the essentials with `Install.bat`:
+Type this into Command Prompt:
 ```batch
 CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/Install.bat > C:\Users\%USERNAME%\Desktop\Install.bat
 CALL C:\Users\%USERNAME%\Desktop\Install.bat
