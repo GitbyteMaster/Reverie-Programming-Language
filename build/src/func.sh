@@ -49,7 +49,7 @@ if [ $1 -eq 3 ];then
 		sh /Users/$USER/Reverie/src/error.sh 1 $2
 	fi
 fi
-# move([type], [str/var])
+# move([type], [str/var], [str/var])
 if [ $1 -eq 4 ];then
 	if [[ "$3" == "" ]];then
 		sh /Users/$USER/Reverie/src/error.sh 3 $2
