@@ -24,12 +24,12 @@ def paramcollect():
                 while not line[numone] == "\"":
                     vals = f"{vals}{line[numone]}"
                     numone += 1
-                vals = f"{vals}\""
-    
-            
+                vals = f"{vals}\""            
     else:
         if platform.system() != "Windows":
             os.system("sh /Users/{getpass.getuser()/Reverie/src/error.sh 5 {mainum}")
+        else:
+            os.system("CALL C:\Users\{getpass.getuser()}\Reverie\src\error.sh 5 {mainum}")
 mainum = 0
 literal = False
 if platform.system() == "Darwin":
