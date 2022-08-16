@@ -21,12 +21,13 @@ It is the sucessor of [PRIME Programming Language](https://github.com/GitbyteMas
 
 Reverie gets many updates, see all of Reverie's development and what's next to come [here.](https://github.com/GitbyteMaster/Reverie-Programming-Language/blob/main/TODO.md)
 
-```python
-put("-d", "Hello World!")
-```
 
 # Why Reverie?
 The Reverie programming language comes with simplified syntax for any kind of software development. It is open source for developers to modify into a shape of their choice. It is made in Python format to work with multiple Python shells (Over version 3.8) of different devices that interpret varied syntax.
+
+```python
+put("-d", "Hello World!")
+```
 
 # Contribution
 Contribution is more than encouraged! As this isn't a very large project, anyone who chooses to join without any malicious intent will be informed on ways to help! 🤩
