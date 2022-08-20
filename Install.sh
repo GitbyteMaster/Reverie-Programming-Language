@@ -1,8 +1,8 @@
 echo "Creating Directories.."
-if [ -d "/Users/$USER/Reverie" ];then
+if ! [ -d "/Users/$USER/Reverie" ];then
     mkdir "/Users/$USER/Reverie"
 fi
-if [ -d "/Users/$USER/Reverie/src" ];then
+if ! [ -d "/Users/$USER/Reverie/src" ];then
     mkdir "/Users/$USER/Reverie/src"
 fi
 
@@ -14,5 +14,26 @@ curl -s "https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Lan
 curl -s "https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/src/func.sh" > "/Users/$USER/Reverie/src/func.sh"
 curl -s "https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/src/error.sh" > "/Users/$USER/Reverie/src/error.sh"
 
-clear
-echo "Installation Finished! Thank You for Downloading the Reverie Programming Language!"
+status="Installation Finished! Thank You for Downloading the Reverie Programming Language!"
+if ! [ -d "/Users/$USER/Reverie" ];then
+    status="Failed to Create '/Users/$USER/Reverie'"
+fi
+if ! [ -d "/Users/$USER/Reverie/" ];then
+    status="Failed to Create '/Users/$USER/Reverie/src'"
+fi
+
+
+if ! [ -f "/Users/$USER/Reverie/main.py" ];then
+    status="Failed to Create '/Users/$USER/Reverie/main.py'"
+fi
+
+if ! [ -f "/Users/$USER/Reverie/src/run" ];then
+    status="Failed to Create '/Users/$USER/Reverie/src/run'"
+fi
+if ! [ -f "/Users/$USER/Reverie/src/func.sh" ];then
+    status="Failed to Create '/Users/$USER/Reverie/src/func.sh'"
+fi
+if ! [ -f "/Users/$USER/Reverie/src/run/error.sh" ];then
+    status="Failed to Create '/Users/$USER/Reverie/src/error.sh'"
+fi
+echo $status
