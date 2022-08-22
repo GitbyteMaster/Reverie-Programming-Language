@@ -2,6 +2,8 @@
 - [ ] Install Structure
 - [ ] Update Reverie
 - [ ] Execute Reverie Scripts
+- - [X] Batch Variant
+- - [ ] Shell Variant
 - [ ] Convert File
 #### Datatypes
 - [X] Strings
@@ -18,10 +20,12 @@
 - [ ] If & Else Statements
 - [ ] Go to Line
 #### File Manipulation
-- [ ] Write into Files
+- [X] Write into Files
 - [X] Overide File Contents
 - [X] Start File
 - [ ] Delete File
 - [X] Create File
 - [ ] Read File Contents
 - [ ] Create Directory
+- [X] Move File
+- [X] Rename File
