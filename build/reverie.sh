@@ -5,5 +5,6 @@ function reverie {
       python3 /Users/$USER/Reverie/main.py
     else
       echo "'$2' Doesn't seem to exist! Check your spelling."
+    fi
   fi
 }
