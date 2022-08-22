@@ -13,7 +13,7 @@ echo "Downloading Files.."
 curl -s "https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/main.py" > "/Users/$USER/Reverie/main.py"
 curl -s "https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/src/func.sh" > "/Users/$USER/Reverie/src/func.sh"
 curl -s "https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/src/error.sh" > "/Users/$USER/Reverie/src/error.sh"
-
+curl -s "https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/reverie.sh" > "/Users/$USER/reverie.sh"
 status="Installation Finished! Thank You for Downloading the Reverie Programming Language!"
 if ! [ -d "/Users/$USER/Reverie" ];then
     status="Failed to Create '/Users/$USER/Reverie'"
