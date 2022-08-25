@@ -32,7 +32,7 @@ put("-d", "Hello World!")
 # Contribution
 Contribution is more than encouraged! As this isn't a very large project, anyone who chooses to join without any malicious intent will be informed on ways to help! 🤩
 
-# Installation & Updating
+# Installation
 Current Version `v1`
 
 Reverie is a universal language that calls functions through a Python file. To get the function caller to work, download [Python](https://www.python.org/downloads/).
