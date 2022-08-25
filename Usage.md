@@ -8,4 +8,5 @@ reverie exec "*/yourfile.rev"
 ### Windows
 ```batch
 reverie exec *\yourfile.bat
+```
 If your file exists, you probably should get flawless execution.
