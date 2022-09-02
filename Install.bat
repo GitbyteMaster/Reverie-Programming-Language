@@ -11,10 +11,10 @@ ECHO Creating Files..
 ECHO > C:\Users\%USERNAME%\Reverie\src\run
 
 ECHO Downloading Files..
-CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/main.py > C:\Users\%USERNAME%\Reverie\main.py
-CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/src/func.bat > C:\Users\%USERNAME%\Reverie\src\func.bat
-CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/src/error.bat > C:\Users\%USERNAME%\Reverie\src\error.bat
-CURL https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/reverie.bat > C:\Users\%USERNAME%\reverie.bat
+CURL -s https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/main.py > C:\Users\%USERNAME%\Reverie\main.py
+CURL -s https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/src/func.bat > C:\Users\%USERNAME%\Reverie\src\func.bat
+CURL -s https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/src/error.bat > C:\Users\%USERNAME%\Reverie\src\error.bat
+CURL -s https://raw.githubusercontent.com/GitbyteMaster/Reverie-Programming-Language/Reverie3%2B/build/reverie.bat > C:\Users\%USERNAME%\reverie.bat
 
 SET status = Installation Finished! Thank You for Downloading the Reverie Programming Language!
 if NOT EXIST C:\Users\$%USERNAME%\Reverie (
